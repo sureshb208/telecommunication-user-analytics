@@ -1073,3 +1073,80 @@
 08-27-2022 15:59:11 : INFO : loggers : Plotting a bar chart
 08-27-2022 15:59:11 : INFO : loggers : Plotting a bar chart
 08-27-2022 15:59:11 : INFO : loggers : Plotting a bar chart
+08-27-2022 16:47:04 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:47:17 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:47:17 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:50:25 : INFO : loggers : Successfully Instantiated Outlier Class Object
+08-27-2022 16:50:25 : INFO : loggers : Successfully Instantiated Outlier Class Object
+08-27-2022 16:52:50 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:52:50 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:52:50 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:58:10 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:58:10 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:58:10 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:58:10 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:59:40 : INFO : loggers : Handled outliers from the dataset successfully using np.log
+08-27-2022 16:59:40 : INFO : loggers : Handled outliers from the dataset successfully using np.log
+08-27-2022 16:59:40 : INFO : loggers : Handled outliers from the dataset successfully using np.log
+08-27-2022 16:59:40 : INFO : loggers : Handled outliers from the dataset successfully using np.log
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:07:50 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:07:50 : INFO : loggers : Successfully Instantiated Outlier Class Object
+08-27-2022 17:41:36 : INFO : loggers : # Centroids of the clustering:
+[[0.08009894 0.85048028 0.51926622]
+ [0.07818572 0.90938692 0.40752989]
+ [0.07670908 0.87904351 0.47018571]]
+08-27-2022 17:41:36 : INFO : loggers : # The number of iterations required to converge: 55.23557709160564
+08-27-2022 17:41:36 : INFO : loggers : # The number of iterations required to converge: 11
+08-27-2022 17:41:51 : INFO : loggers : Plotting a pie chart
+08-27-2022 17:43:03 : INFO : loggers : Plotting a bar chart
+08-27-2022 17:44:30 : INFO : loggers : The optimal number of cluster is: 3
+08-27-2022 18:10:53 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:10:54 : INFO : loggers : Plotting a bar chart
+08-27-2022 18:11:16 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:11:16 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:11:16 : INFO : loggers : Plotting a bar chart
+08-27-2022 18:11:16 : INFO : loggers : Plotting a bar chart
+08-27-2022 18:13:39 : INFO : loggers : # Centroids of the clustering:
+[[0.20689769 0.2980274  0.92932316]
+ [0.22541363 0.49288043 0.83696843]
+ [0.2305882  0.62267284 0.74307841]]
+08-27-2022 18:13:39 : INFO : loggers : # Centroids of the clustering:
+[[0.20689769 0.2980274  0.92932316]
+ [0.22541363 0.49288043 0.83696843]
+ [0.2305882  0.62267284 0.74307841]]
+08-27-2022 18:13:39 : INFO : loggers : # The number of iterations required to converge: 582.2178419803125
+08-27-2022 18:13:39 : INFO : loggers : # The number of iterations required to converge: 582.2178419803125
+08-27-2022 18:13:39 : INFO : loggers : # The number of iterations required to converge: 21
+08-27-2022 18:13:39 : INFO : loggers : # The number of iterations required to converge: 21
+08-27-2022 18:15:09 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:09 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:09 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:09 : INFO : loggers : Plotting a pie chart
+08-27-2022 18:15:09 : INFO : loggers : Plotting a pie chart
+08-27-2022 18:15:09 : INFO : loggers : Plotting a pie chart
+08-27-2022 18:15:45 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:45 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:45 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:45 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 18:15:45 : INFO : loggers : Plotting a pie chart
+08-27-2022 18:15:45 : INFO : loggers : Plotting a pie chart
+08-27-2022 18:15:45 : INFO : loggers : Plotting a pie chart
+08-27-2022 18:15:45 : INFO : loggers : Plotting a pie chart

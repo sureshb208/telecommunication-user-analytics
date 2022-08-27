@@ -2,7 +2,7 @@ import sys
 
 import numpy as np
 import pandas as pd
-from logger import Logger
+from loggers import Logger
 
 
 class Outlier:
