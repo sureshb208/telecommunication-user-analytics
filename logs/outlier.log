@@ -1,0 +1,17 @@
+08-27-2022 16:46:52 : INFO : loggers : Successfully Instantiated Outlier Class Object
+08-27-2022 16:47:04 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:47:17 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:50:25 : INFO : loggers : Successfully Instantiated Outlier Class Object
+08-27-2022 16:50:25 : INFO : loggers : Successfully Instantiated Outlier Class Object
+08-27-2022 16:52:50 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:52:50 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:58:10 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:58:10 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 16:59:40 : INFO : loggers : Handled outliers from the dataset successfully using np.log
+08-27-2022 16:59:40 : INFO : loggers : Handled outliers from the dataset successfully using np.log
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:03:25 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:01 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
+08-27-2022 17:04:40 : INFO : loggers : Successfully Instantiated Preprocessing Class Object
